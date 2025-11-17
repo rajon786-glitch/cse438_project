@@ -1,1 +1,1 @@
-# cse438_project
+# cse438_project_image_processing
